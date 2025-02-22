@@ -3,21 +3,26 @@
 
 * Ce dépôt contient mes projets personnels en lien avec les systèmes, les réseaux et la cybersécurité.
 
-|__ Systèmes
-|** Linux && Windows Server
-|** Virtualisation et conteneurisation: Vagrant,Docker/Docker-compose
-.
-.
-|__ Réseaux 
-|** Stack TCP/IP,WAN/LAN/WLAN,IOT,Cellulaires 3G/4G/5G
-|** Configuartions matériels
-|** Virtualisation: GNS3,IMMUNES
-.
-.
-|__ cybersecurité
-|** Crypto
-|** Locale: Tests d’Intrusion 
-|** Web
-.
-.
+projets_personnels:
+  Systèmes:
+    - Linux & Windows Server
+    - Virtualisation et conteneurisation:
+        outils:
+          - Vagrant
+          - Docker
+          - Docker-Compose
+
+  Réseaux:
+    - Stack TCP/IP, WAN/LAN/WLAN, IoT, Cellulaires 3G/4G/5G
+    - Configurations matérielles
+    - Virtualisation:
+        outils:
+          - GNS3
+          - IMUNES
+
+  Cybersécurité:
+    - Crypto
+    - Locale:
+        - Tests d’Intrusion
+    - Web
 
