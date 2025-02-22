@@ -1,28 +1,24 @@
 
 # Mes Projets Personnels
 
-* Ce dépôt contient mes projets personnels en lien avec les systèmes, les réseaux et la cybersécurité.
+Ce dépôt contient mes projets liés aux **systèmes**, **réseaux** et **cybersécurité**.
 
-projets_personnels:
-  Systèmes:
-    - Linux & Windows Server
-    - Virtualisation et conteneurisation:
-        outils:
-          - Vagrant
-          - Docker
-          - Docker-Compose
+## 🖥️ Systèmes  
+- **Linux & Windows Server**  
+- **Virtualisation et Conteneurisation**  
+  - Vagrant  
+  - Docker / Docker-Compose  
 
-  Réseaux:
-    - Stack TCP/IP, WAN/LAN/WLAN, IoT, Cellulaires 3G/4G/5G
-    - Configurations matérielles
-    - Virtualisation:
-        outils:
-          - GNS3
-          - IMUNES
+## 🌐 Réseaux  
+- **Technologies & Protocoles** : Stack TCP/IP, WAN/LAN/WLAN, IoT, Cellulaires (3G/4G/5G)  
+- **Configurations Matérielles**  
+- **Virtualisation Réseau**  
+  - GNS3  
+  - IMUNES  
 
-  Cybersécurité:
-    - Crypto
-    - Locale:
-        - Tests d’Intrusion
-    - Web
+## 🔒 Cybersécurité  
+- **Cryptographie**  
+- **Tests d’Intrusion**   
+- **Sécurité Web**  
 
+---
